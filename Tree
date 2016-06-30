@@ -1,3 +1,7 @@
 1. 记住如何判定叶子节点的位置
 (root.left == null && root.right == null) 该条件为判定叶子的最好条件！
 
+2. is validate binary search tree
+
+http://www.cnblogs.com/yuzhangcmu/p/4177047.html
+
